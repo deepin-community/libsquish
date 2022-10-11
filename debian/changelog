@@ -1,0 +1,38 @@
+libsquish (1.15-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Wookey <wookey@debian.org>  Tue, 17 May 2022 17:48:51 +0800
+
+libsquish (1.15-1) unstable; urgency=medium
+
+  * New upstream release (adds openmp support)
+
+ -- Wookey <wookey@debian.org>  Sun, 06 Aug 2017 21:05:20 +0100
+
+libsquish (1.14-1) unstable; urgency=medium
+
+  * New upstream release, incorporating all debian patches
+    Thanks to Stefan Roettger.
+  * Add Multiarch meta-data
+
+ -- Wookey <wookey@debian.org>  Wed, 21 Sep 2016 16:06:29 +0100
+
+libsquish (1.13-3) unstable; urgency=medium
+
+  * Fix doc-base typos. 
+
+ -- Wookey <wookey@debian.org>  Sun, 18 Sep 2016 12:01:40 +0100
+
+libsquish (1.13-2) unstable; urgency=medium
+
+  * Ensure dpkg-buildflasg is used for shared library
+
+ -- Wookey <wookey@debian.org>  Sun, 18 Sep 2016 00:32:54 +0000
+
+libsquish (1.13-1) unstable; urgency=medium
+
+  * Initial release (Closes: #836247)
+  * Merge changes from Kodi,Mame,XBMC
+
+ -- Wookey <wookey@debian.org>  Sat, 27 Aug 2016 00:59:45 +0000

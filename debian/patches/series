@@ -1,0 +1,3 @@
+enable-shared-lib.patch
+enable-dot-in-doxygen.patch
+enable-openmp.patch

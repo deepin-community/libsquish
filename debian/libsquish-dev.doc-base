@@ -1,0 +1,9 @@
+Document: libsquish
+Title: libsquish API documentation
+Author: Simon Brown
+Abstract: This is doxygen-generated API documentation.
+Section: Graphics
+
+Format: HTML
+Index: /usr/share/doc/libsquish-dev/html/index.html
+Files: /usr/share/doc/libsquish-dev/html/*.html

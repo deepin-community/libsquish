@@ -1,0 +1,4 @@
+usr/include/*
+usr/lib/*/libsquish.so
+usr/lib/*/pkgconfig/libsquish.pc
+usr/lib/*/libsquish.a

@@ -1,0 +1,14 @@
+This packaging of libsquish
+(https://sourceforge.net/projects/libsquish/) includes the changes
+from all the embedded squish/libsquish copies in existing debian
+packages (as of August 2016). They are all now upstreamed, so
+everything should work nicely with libsquish 1.14 onwards.
+
+  - nvidia-texture-tools 1.7 (src/nvtt/squish)
+  - 0ad         1.7 (libraries/source/nvtt/src/src/nvtt/squish/)
+  - spring      1.10  (rts/lib/squish)
+  - openimageio 1.10+ (1.10+metric) (src/dds.imageio/squish)
+  - xbmc        1.10+ (1.10+metric/BC45) (lib/libsquish)
+  - kodi        1.10+ (1.10+metric/BC45) (tools/depends/native/libsquish-native)
+  - mame        1.13+ (1.13+BC45) (3rdparty/bgfx/3rdparty/libsquish)
+

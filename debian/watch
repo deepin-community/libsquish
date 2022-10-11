@@ -1,0 +1,9 @@
+# Compulsory line, this is a version 4 file
+version=3
+
+# PGP signature mangle, so foo.tar.gz has foo.tar.gz.sig
+#opts="pgpsigurlmangle=s%$%.sig%"
+
+# SourceForge hosted projects
+http://sf.net/libsquish/libsquish-(\d\S*)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz))) \
+ debian uupdate
